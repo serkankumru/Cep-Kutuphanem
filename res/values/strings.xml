@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Cep Kütüphanem</string>
+    <string name="btn1">Yüklü Kitaplar</string>
+    <string name="btn2">Web Kitaplar</string>
+    <string name="btn3">QR Kitaplar</string>
+    <string name="btnText">Online Dinle</string>
+
+
+    <string-array name="QrKitaplar">
+        <item>Deliler Mezarlığı - Ray Bradbury</item>
+        <item>Bir Aşk Sayfası - Emile Zola</item>
+        <item>Cemile - Cengiz Aytmatov</item>
+        <item>Donusum - Franz Kafka</item>
+        <item>Faust - Goethe</item>
+        <item>Göz - Stephen King</item>
+        <item>Hikayeler III - Turgenyev</item>
+        <item>Kurk Mantolu Madonna - Sabahattin Ali</item>
+        <item>Melekler ve Seytanlar - Dan Brown</item>
+        <item>Otuz Bes Yas - Cahit Sitki Taranci</item>
+        <item>Sonuncu Kurban - Agatha Christie</item>
+        <item>Totem ve Tabu - Sigmund Freud</item>
+        <item>Uc Oyku - Nikolay Gogol</item>
+        <item>Vulcanın Çekici - Philip K. Dick</item>
+        <item>Yüzbaşının Kızı - Aleksandr Puşkin</item>
+    </string-array>
+
+    <string-array name="LokalKitaplar">
+        <item>6 Kogus - Anton Cehov</item>
+        <item>Candide - Voltaire</item>
+        <item>Dövüş Kulübü - Chuck Palahniuk</item>
+        <item>Fahrenheit 451 - Ray Bradbury</item>
+        <item>Garih Öldüren Sır - Abdullah Muradoğlu</item>
+        <item>Hastalık Hastası - Moliere</item>
+        <item>İçimizdeki Şeytan - Sabahattin Ali</item>
+        <item>Kar Tatili - Emmanuel Carrere</item>
+        <item>Madame Bovary - Gustave Flaubert</item>
+        <item>Matrix ve Felsefe - William Irwin</item>
+        <item>Nietzsche ve Felsefe - Deleuze</item>
+        <item>Olu Ozanlar Dernegi - N. H. Kleinbaum</item>
+        <item>Riza Beyin Polisiye Oykuleri - Cetin Altan</item>
+        <item>Saatleri Ayarlama Enstitüsü - Ahmet Hamdi Tanpınar</item>
+        <item>Toprak Ana - Cengiz Aytmatov</item>
+        <item>Uc Kisa Oyun - Luigi Pirandello</item>
+        <item>Ve Ayna Kirildi - Agatha Christie</item>
+        <item>Yabancı - Albert Camus</item>
+        <item>Zaman ve Varlik Uzerine - Heidegger</item>
+    </string-array>
+
+
+    <string-array name="Internetkitaplar">
+        <item>Amcanin Ruyasi - Dostoyevski</item>
+        <item>Baskasinin Karisi - Dostoyevski</item>
+        <item>Beyaz Gemi - Cengiz Aytmatov</item>
+        <item>Degirmenimden Mektuplar - Alphonse Daudet</item>
+        <item>Fareler ve İnsanlar - John Steinbeck</item>
+        <item>Genc Wertherin Acilari - Johann Wolfgang Goethe</item>
+        <item>Hayvan Çiftliği - George Orwell</item>
+        <item>Karanlikta Sabah Kuslari - Ahmet Altan</item>
+        <item>Kin ve Sevgi - Solohov</item>
+        <item>Kiralik Konak - Yakup Kadri Karaosmanoglu</item>
+        <item>Mavi Oktav Defterleri - Franz Kafka</item>
+        <item>Oteki - Dostoyevski</item>
+        <item>Siradan Delilik Oykuleri - Charles Bukowski</item>
+        <item>Visne Bahcesi - Anton Cehov</item>
+        <item>Yasak Iliski - Barbara Taylor</item>
+    </string-array>
+
+
+</resources>
